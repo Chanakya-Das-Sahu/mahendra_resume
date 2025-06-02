@@ -7,7 +7,7 @@ import Publications from './components/Publications';
 import Teaching from './components/Teaching';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 // OwnershipBadge component
 const OwnershipBadge = () => (
