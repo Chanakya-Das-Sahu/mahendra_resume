@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 
 // OwnershipBadge component
 const OwnershipBadge = () => (
-  <div
+  <div 
     style={{
       position: "fixed",
       right: "-12px",
