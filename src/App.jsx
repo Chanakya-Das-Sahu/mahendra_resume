@@ -25,6 +25,20 @@ const OwnershipBadge = () => (
       padding: "0.5rem 1rem"
     }}
   >
+     <a
+      href="https://chanakya-das-sahu.netlify.app"
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{
+        color: "#222",
+        fontWeight: "bold",
+        textDecoration: "none",
+        fontSize: "1rem",
+        display: "flex",
+        alignItems: "center",
+      }}
+      title="Visit my portfolio"
+    >
     <img
       src="https://res.cloudinary.com/dn4trwbmw/image/upload/v1745310402/ivg4tam9i3rfxz4skr01.jpg"
       alt="Owner"
@@ -37,18 +51,7 @@ const OwnershipBadge = () => (
         border: "2px solid #222"
       }}
     />
-    <a
-      href="https://chanakya-das-sahu.netlify.app"
-      target="_blank"
-      rel="noopener noreferrer"
-      style={{
-        color: "#222",
-        fontWeight: "bold",
-        textDecoration: "none",
-        fontSize: "1rem"
-      }}
-      title="Visit my portfolio"
-    >
+   
       Chanakya Das Sahu
       {/* <span style={{ marginLeft: "0.5rem", fontSize: "1.2rem" }} role="img" aria-label="ownership">👑</span> */}
     </a>
